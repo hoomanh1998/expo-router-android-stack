@@ -2,7 +2,7 @@
 
 Learn to use the Stack Navigator in Expo Router: navigate between screens, pass params between screens, create dynamic routes and configure the screen titles and animations.
 
-To run this code, clone the repo, `cd 1-layouts`, `bun install` (or `npm install` etc) and `npx expo start`.
+To run this code, clone the repo, `npm install` and `npx expo start`.
 
 ## Watch on YouTube
 
